@@ -13,7 +13,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight" />
@@ -21,18 +21,11 @@
 
 
 
-<!-- ## GitHub Contribution Snake
-### Light Mode
+## GitHub Contribution Snake
 <img src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" />
 
-### Dark Mode
-<img src="https://nstcrystal.github.io/nstcrystal/github-snake-dark.svg" />
-
-### Ocean GIF
-<img src="https://nstcrystal.github.io/nstcrystal/ocean.gif" /> -->
 
 
-
-## ⭐ Support me
+## Support me
 If you find what I do useful, please leave a star in the repo!
 
