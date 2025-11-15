@@ -6,7 +6,7 @@
 
 
 ## About Me
-- Currently learning more deeply about C++, python,...
+- Currently learning more deeply about C++, Python,...
 - Likes to experiment and build new things  
 - My website: https://nstcrystal.is-a.dev/  
 - Email: nstcrystal@gmail.com
