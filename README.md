@@ -22,11 +22,11 @@
 
 
 ## GitHub Contribution Snake
-<img src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" />
+<!-- <img src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://nstcrystal.github.io/nstcrystal/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://nstcrystal.github.io/nstcrystal/github-snake.svg" />
-  <!-- <img alt="github-snake" src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" /> -->
+  <img alt="github-snake" src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" />
 </picture>
 
 
