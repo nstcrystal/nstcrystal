@@ -13,10 +13,8 @@
 
 
 ## GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nstcrystal&show_icons=true&theme=merko&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&langs_count=20&theme=merko&hide_border=true&hide=vim%20script,scss,css,dockerfile,html,cmake,nix,just)
 
 
 
