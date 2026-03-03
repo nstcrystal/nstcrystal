@@ -13,10 +13,10 @@
 
 
 ## GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats-git-master-nstcrystals-projects.vercel.app&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats-git-master-nstcrystals-projects.vercel.app&layout=compact&theme=tokyonight" />
-</p>
+<img height="180"
+src="https://github-readme-stats-ivory-xi-62.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight" />
+<img height="180"
+src="https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight" />
 
 
 
