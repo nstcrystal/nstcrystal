@@ -13,10 +13,10 @@
 
 
 ## GitHub Stats
-<img height="180"
-src="https://github-readme-stats-ivory-xi-62.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight" />
-<img height="180"
-src="https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight" />
+</p>
 
 
 
@@ -32,4 +32,3 @@ src="https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=
 
 ## Support me
 If you find what I do useful, please leave a star in the repo!
-
