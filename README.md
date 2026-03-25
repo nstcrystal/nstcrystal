@@ -1,26 +1,22 @@
 <h1 align="center">Hi there, I'm NST Crystal</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=-1px&duration=2500&pause=750&color=00A8FF&width=435&lines=Welcome+to+My+GitHub+!!!;I'm+a+college+student+from+Vietnam." alt="Typing SVG" />
 
-
-
-
 ## About Me
+
 - Currently learning more deeply about C++, Python,...
-- Likes to experiment and build new things  
-- My website: https://nstcrystal.is-a.dev/  
+- Likes to experiment and build new things
+- My website: https://nstcrystal.is-a.dev/
 - Email: nstcrystal@gmail.com
 
-
-
 ## GitHub Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-ivory-xi-62.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 ## GitHub Contribution Snake
+
 <!-- <img src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://nstcrystal.github.io/nstcrystal/github-snake-dark.svg" />
@@ -28,7 +24,6 @@
   <img alt="github-snake" src="https://nstcrystal.github.io/nstcrystal/github-snake.svg" />
 </picture>
 
-
-
 ## Support me
+
 If you find what I do useful, please leave a star in the repo!
