@@ -11,8 +11,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-ivory-xi-62.vercel.app/api?username=nstcrystal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-ivory-xi-62.vercel.app/api?username=nstcrystal&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=nstcrystal&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## GitHub Contribution Snake
