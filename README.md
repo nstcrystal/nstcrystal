@@ -3,10 +3,16 @@
 
 ## About Me
 
-- Currently learning more deeply about C++, Python,...
 - Likes to experiment and build new things
 - My website: [nstcrystal.is-a.dev](https://nstcrystal.is-a.dev/)
 - Email: nstcrystal@gmail.com
+
+### Skills & Technologies
+- **Languages**: Python, C++, JavaScript, Lua
+- **Frameworks**: Vue.js
+- **Tools**: Git, Linux (Arch Linux)
+- **Interests**: Game Development, Web Development, Data Structures & Algorithms
+- **Projects**: Flappy Bird game, Calculator app, Personal website, TikTok downloader, Snake game, Text-to-Speech application
 
 ## GitHub Stats
 
