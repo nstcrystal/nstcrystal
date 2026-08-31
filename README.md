@@ -13,7 +13,6 @@
 - **Frameworks**: Vue.js
 - **Tools**: Git, Linux (Arch Linux)
 - **Interests**: Game Development, Web Development, Data Structures & Algorithms
-- **Projects**: Flappy Bird game, Calculator app, Personal website, TikTok downloader, Snake game, Text-to-Speech application
 
 ## GitHub Stats
 
