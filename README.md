@@ -11,8 +11,7 @@
 
 - **Languages**: Python, C++, JavaScript, Lua
 - **Frameworks**: Vue.js
-- **Tools**: Git, Linux (Arch Linux)
-- **Interests**: Game Development, Web Development, Data Structures & Algorithms
+- **Tools**: Git, Linux
 
 ## GitHub Stats
 
